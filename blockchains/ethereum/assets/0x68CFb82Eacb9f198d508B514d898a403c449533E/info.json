@@ -1,0 +1,11 @@
+{
+    "name": "Credmark",
+    "symbol": "CMK",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Credmark is a community-driven project that connects data providers, risk modelers and DeFi users.",
+    "website": "https://credmark.com/",
+    "explorer": "https://etherscan.io/token/0x68CFb82Eacb9f198d508B514d898a403c449533E",
+    "status": "active",
+    "id": "0x68CFb82Eacb9f198d508B514d898a403c449533E"
+}
